@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1602018932 source:c:\users\srdjan\desktop\zadaci c\zadaci github\2 novi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
